@@ -1,7 +1,7 @@
 robovm-sample-ios-app-xtend
 ===========================
 
-The RoboVM sample IOS app written in Eclipse Xtend
+The RoboVM sample IOS app written in Eclipse Xtend (http://eclipse.org/xtend)
 
 Installation
 ============
